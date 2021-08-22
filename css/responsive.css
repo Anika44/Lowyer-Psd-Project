@@ -268,7 +268,7 @@
     }
     .who-we-are-section .introduce p {
         font-size: 5px;
-        text-align: center;
+        /* text-align: center; */
         padding-bottom: 20px;
     }
     .who-we-are-section  .heading span {
@@ -277,12 +277,10 @@
         margin-bottom: 3px;
         margin: 0 auto;
     }
-    img {
+    .navbar img {
         vertical-align: middle;
         border-style: none;
         width: 50%;
     }
-    .pl-5, .px-5 {
-        padding-left: 10rem !important;
-    }
+    
 }
