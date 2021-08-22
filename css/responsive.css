@@ -261,10 +261,9 @@
         padding-bottom: 30px;
     }
     .introduce {
-        text-align: center;
-        align-items: center;
+ padding-left: 20px;;
         padding-bottom: 20px;
-        justify-content: center;
+      
     }
     .who-we-are-section .introduce p {
         font-size: 5px;
@@ -275,7 +274,10 @@
         width: 25px;
         height: 1px;
         margin-bottom: 3px;
-        margin: 0 auto;
+      
+    }
+    .who-we-are-section .img-fluid{
+        width: 80%;;
     }
     .navbar img {
         vertical-align: middle;
